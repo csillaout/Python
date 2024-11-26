@@ -7,9 +7,11 @@ I am going to learn Python, fastAPI, unit testing with Pytest, CI/CD pipelines w
 I am going to complete
 
 - Python 3 Fundamentals on Pluralsight and learn about the following: Data Types, Conditionals and Imports, List and Loops, Dictionaries, JSON, and Pip, Functions, Classes and Objects, Working with Files.
-- FastAPI documentation - beginner tutorial
-- Pytest
-- GitLab
+- FastAPI documentation - beginner tutorial & Pluralsight: FastAPI Fundamentals
+- Pytest - Pluralsight: Testin in Python3
+- GitLab - Setting up my account. Pluralsight GitLab 16 Fundamentals
+
   I will also use Codecademy and deepen my knowledge on the above mentioned categories
-  While follow the courses I will code along and store every little exercise on GitHub in my Python repo
+  While follow the courses I will code along and store every little exercise on GitHub/Gitlab in my Python repo
+
   Project: WebApp/API. finding dataset, build and API to access this data and display on a UI
