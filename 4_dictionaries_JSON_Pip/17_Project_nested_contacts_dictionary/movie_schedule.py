@@ -1,7 +1,7 @@
-current_moveis = {'The Grinch': '11:00am', 'Rudolf': '1:00pm', 'Frotsy the Snowman': '3:00pm', 'Christmas Vacation': ' 5:00pm'}
+current_movies = {'The Grinch': '11:00am', 'Rudolf': '1:00pm', 'Frotsy the Snowman': '3:00pm', 'Christmas Vacation': ' 5:00pm'}
 
 print('We are showing the following movies:')
-for key in current_moveis:
+for key in current_movies:
     print(key)
 
 movie = input('What movie wold you like the showtime for?\n')
