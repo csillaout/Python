@@ -34,7 +34,7 @@ with open('acronym.txt') as file:
     #read the file
     for line in file:
         if look_up in line:
-            print:(line)
+            print(line)
             found = True
             break
 if not found:
