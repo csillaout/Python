@@ -2,7 +2,7 @@
 
 #1 create a class
 class Robot_Dog:
-    def __init__(self, name_val, breed_val):  #init let us initialise the properties like name, breed .... self is the first parameter  and it refer to the instance of the class we are creating or the current object. the other parameters are the other values of the properties we want to initialise we will have name an bree
+    def __init__(self, name_val, breed_val):  #init let us initialise the properties like name, breed .... self is the first parameter  and it refer to the instance of the class we are creating or the current object. the other parameters are the other values of the properties we want to initialise we will have name and breed
         self.name = name_val
         self.breed = breed_val  #we initialise the properties of the new object, self, to the passed in values
     
