@@ -1,8 +1,8 @@
 import os
 
 #where we moving our files from and to
-folder_original = '/Users/sarah/Desktop'
-folder_destination = '/Users/sarah/Desktop/CleanedUp'
+folder_original = '/users/csillatoth/Desktop'
+folder_destination = '/users/csillatoth/Desktop/CleanedUp'
 
 #create the new CleanedUp directory
 os.mkdir(folder_destination)
@@ -13,5 +13,5 @@ for entry in os.scandir(folder_original):
     location_destination = os.path.join(folder_destination, entry.name)
 
     #we can move the file
-    if os.path.isfile(loc_original): #making sure we move files and not directories
+    if os.path.isfile(location_original): #making sure we move files and not directories
         os.rename(location_original, location_destination)

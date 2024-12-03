@@ -1,4 +1,4 @@
-from employee import Employee, SalaryEmployee, HourlyEmployee, CommissionEmployee#employee is the file name, Employee is the class name
+from employee import SalaryEmployee, HourlyEmployee, CommissionEmployee#employee is the file name, Employee is the class name
 
 class Company:
     def __init__(self):
