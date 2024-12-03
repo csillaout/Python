@@ -10,7 +10,7 @@ I am going to learn Python, fastAPI, unit testing with Pytest, CI/CD pipelines w
   GitLab - Setting up my account. Pluralsight GitLab 16 Fundamentals
 - Week 2 & 3
   FastAPI documentation - beginner tutorial & Pluralsight: FastAPI Fundamentals
-  Pytest - Pluralsight: Testin in Python3
+  Pytest - Pluralsight: Testing in Python3
 - Week 4: Working on project: WebApp/API. finding dataset, build and API to access this data and display on a UI
 
 While follow the courses I will code along and store every little exercise on GitHub/Gitlab in my Python repo
